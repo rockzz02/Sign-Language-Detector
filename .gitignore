@@ -1,2 +1,4 @@
 project/data/
+project/model.p
+project/cnn_model.h5
 /Lib
